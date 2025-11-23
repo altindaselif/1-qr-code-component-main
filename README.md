@@ -20,7 +20,7 @@ This is a QR Code component that you can use on your websites.
 
 ### Links
 
-- Live Site URL: [QR Code component](https://altindaselif.github.io/qr-code-component/)
+- Live Site URL: [QR Code Component](https://altindaselif.github.io/qr-code-component/)
 
 ## My process
 
