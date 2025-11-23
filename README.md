@@ -6,6 +6,7 @@ This is a QR Code component that you can use on your websites.
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,6 +17,10 @@ This is a QR Code component that you can use on your websites.
 ### Screenshot
 
 ![](screenshot.png)
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://altindaselif.github.io/qr-code-component/)
 
 ## My process
 
