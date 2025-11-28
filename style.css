@@ -8,17 +8,15 @@
   /* Typography - Font Family */
   --font-family: "Outfit", sans-serif;
 
-  /* Typography - Font Size */
-  --font-size-1: 2.2rem;
-  --font-size-2: 1.5rem;
+  /* Text Preset 1 */
+  --tp-1-size: 2.2rem;
+  --tp-1-letter-spacing: 0;
+  --tp-1-line-height: 1.2;
 
-  /* Typography - Line Height  */
-  --line-height-preset-1: 120%;
-  --line-height-preset-2: 140%;
-
-  /* Typography - Letter Spacing  */
-  --letter-spacing-preset-1: 0rem;
-  --letter-spacing-preset-2: 0.02rem;
+  /* Text Preset 2 */
+  --tp-2-size: 1.5rem;
+  --tp-2-letter-spacing: 0.2;
+  --tp-2-line-height: 1.4;
 
   /* Spacing */
   --spacing-500: 4rem;
@@ -66,16 +64,16 @@ body {
 
 .qr-heading {
   color: var(--slate-900);
-  font-size: var(--font-size-1);
-  line-height: var(--line-height-preset-1);
-  letter-spacing: var(--letter-spacing-preset-1);
+  font-size: var(--tp-1-size);
+  line-height: var(--tp-1-line-height);
+  letter-spacing: var(--tp-1-line-height);
   margin-bottom: var(--spacing-200);
 }
 
 .qr-description {
   color: var(--slate-500);
-  font-size: var(--font-size-2);
-  line-height: var(--line-height-preset-2);
-  letter-spacing: var(--letter-spacing-preset-2);
+  font-size: var(--tp-2-size);
+  line-height: var(--tp-2-line-height);
+  letter-spacing: var(--tp-2-letter-spacing);
   padding: 0 var(--spacing-200);
 }
