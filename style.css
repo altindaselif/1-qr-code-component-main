@@ -43,6 +43,7 @@ body {
   font-family: var(--font-family);
   background-color: var(--slate-300);
   height: 100vh;
+  padding: var(--spacing-300);
 
   display: flex;
   align-items: center;
@@ -50,10 +51,12 @@ body {
 }
 
 .qr-container {
+  width: 100%;
+  max-width: 32rem;
   text-align: center;
   background-color: var(--white);
   border-radius: 2rem;
-  width: 32rem;
+
   padding: var(--spacing-200);
   padding-bottom: var(--spacing-500);
 }
