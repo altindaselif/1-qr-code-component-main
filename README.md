@@ -2,28 +2,25 @@
 
 This is a QR Code component that you can use on your websites.
 
-## Table of contents
+## Screenshots
 
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
-
-## Screenshot
-
-![](screenshot.png)
+- **Desktop:** ![Desktop Screenshot](screenshot.png)
 
 ## Links
 
-- Solution URL: [QR Code Component Solution](https://github.com/altindaselif/qr-code-component)
-- Live Site URL: [QR Code Component Live](https://altindaselif.github.io/qr-code-component/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/qr-code-component)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/qr-code-component/)
 
-## Built with
+## Built With
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- **Semantic HTML5** – meaningful markup for accessibility
+- **CSS Custom Properties** – easier theming and maintenance
+- **Flexbox** – flexible layout alignment
+- **CSS Grid** – for responsive layouts
+- **Responsive Design** – adapts to different screen sizes
+- **Desktop-First Workflow** – desktop-first, then adapted to smaller devices
 
 ## Author
 
-- Linkedin - [Elif Altındaş](https://www.linkedin.com/in/elifaltindas/)
+- **LinkedIn:** [Elif Altındaş](https://www.linkedin.com/in/elifaltindas/)
+- **Frontend Mentor:** [@altindaselif](https://www.frontendmentor.io/profile/altindaselif)
