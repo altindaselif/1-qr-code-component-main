@@ -4,8 +4,8 @@ This is a QR Code component that you can use on your websites.
 
 ## Screenshots
 
-- **Desktop:** ![Desktop Screenshot](desktop-screenshot.png)
-- **Mobile:** ![Desktop Screenshot](mobile-screenshot.png)
+- **Desktop:** [Desktop Screenshot](desktop-screenshot.png)
+- **Mobile:** [Desktop Screenshot](mobile-screenshot.png)
 
 ## Links
 
