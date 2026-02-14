@@ -9,8 +9,8 @@ This is a QR Code component that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/qr-code-component)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/qr-code-component/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/1-qr-code-component)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/1-qr-code-component/)
 
 ## Built With
 
